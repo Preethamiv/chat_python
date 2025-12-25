@@ -1,4 +1,4 @@
-# 💬 Real-Time Chat Application (Python)
+# 💬 Real-Time Chat Application 
 
 A real-time chat application built using **Python and WebSockets**, demonstrating persistent, bidirectional communication between clients and a server.  
 This project focuses on understanding **real-time networking concepts** using Python instead of JavaScript.
